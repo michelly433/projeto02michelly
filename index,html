@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Impacto do Desmatamento</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Impacto do Desmatamento</h1>
+        <img src="/* código omitido */
+
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--font-body);
+}
+
+/* Corpo da página */
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    line-height: 1.6;
+}
+
+h3 {
+    margin-top: 25px;
+}
+
+p {
+    margin-top: 20px;
+}
+
+img {
+    max-width: 90%;
+}
+
+<!-- /* código omitido */O desmatamento na Amazônia é um problema sério e contínuo, com diversas causas e consequências.
+     A principal causa é a expansão da pecuária e da agricultura, que leva à derrubada de árvores para pastos e plantações. As queimadas
+      também são um problema grave, 
+    especialmente durante a estação seca, e são frequentemente usadas para abrir novas áreas para
+     atividades agropecuárias." alt="https://images.app.goo.gl/Yg6LYeCbcS7smrfS8"> -->
+        <p>O desmatamento intensifica fenômenos negativos no meio ambiente e na vida das pessoas, afetando enchentes, temperatura e qualidade de vida.</p>
+        <nav>/* código omitido */
+
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: var(--font-body);
+}
+
+/* Corpo da página */
+body {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    line-height: 1.6;
+}
+
+h3 {
+    margin-top: 25px;
+}
+
+p {
+    margin-top: 20px;
+}
+
+img {
+    max-width: 90%;
+}
+
+/* código omitido */
+            <ul>
+                <li><a href="#O desmatamento na Amazônia, embora com reduções recentes, continua a ser um problema ambiental e 
+                    social significativo, com impactos que vão desde a perda de 
+                    biodiversidade e agravamento do aquecimento global até a perda de direitos de comunidades indígenas e tradicionais"></a></li>
+                <li><a href="#perda de biodiversidade tanto na fauna quanto na flora, além do aumento do número de espécies ameaçadas de extinção; desequilíbrio
+                     ecossistêmico; poluição atmosférica
+                     decorrente das queimadas; agravamento das mudanças climáticas em função da emissão de gases poluentes na atmosfera.">Consequências</a></li>
+                <li><a href="#A floresta garante as chuvas para boa parte da América do Sul e tem papel central no combate ao aquecimento global e às mudanças 
+                    climáticas. Abriga imensa biodiversidade, com milhares de espécies de plantas e animais
+                    , algumas ainda desconhecidas ou pouco estudadas. É berço da maior bacia hidrográfica do mundo">Conclusão</a></li>
+            </ul>
+        </nav>
+    </header>
+
+<!-- código omitido --><!-- código omitido -->
+
+    <main>
+        <section id="A floresta garante as chuvas para boa 
+        parte da América do Sul e tem papel central no combate ao aquecimento global e às mudanças climáticas. Abriga
+         imensa biodiversidade, com milhares de espécies de plantas e animais, algumas ainda desconhecidas ou pouco estudadas. É berço da maior bacia hidrográfica
+          do mundo" class="desmatamento na amazonias">
+            <h2>Os Problemas</h2>
+            <article>
+                <h3>Aumento das enchentes</h3>
+                <p>As árvores absorvem a água da chuva e ajudam na infiltração no solo. Sem vegetação, a água escoa rapidamente, causando enchentes.</p>
+            </article>
+
+            <article>
+                <h3>Calor excessivo e ilhas de calor</h3>
+                <p>O desmatamento reduz a evapotranspiração das plantas, elevando a temperatura das cidades e aumentando o efeito das ilhas de calor.</p>
+            </article>
+
+            <article>
+                <h3>Redução da qualidade de vida</h3>
+                <p>A destruição das florestas impacta a biodiversidade, aumenta a poluição e reduz o contato com áreas verdes, afetando a saúde mental e respiratória.</p>
+            </article>
+
+            <a href="https://www.youtube.com/watch?v=ILh7nDEKGqc&pp=ygUXSW1wYWN0byBkbyBEZXNtYXRhbWVudG8%3D" class="cta-button" target="_blank">Como impacta o mundo? <i class="fa-solid fa-arrow-up-right-from-square" style="color: var(--text-color);"></i></a>
+        </section>
+
+        <section id="consequencias" class="conteudo">
+            <h2>Consequências</h2>
+            <ul>
+                <li>Aumento das enchentes e erosão do solo</li>
+                <li>Aumento das temperaturas e mudanças climáticas</li>
+                <li>Perda da biodiversidade</li>
+                <li>Redução da qualidade de vida nas cidades</li>
+                <li>Agravamento de problemas de saúde</li>
+                <li>Impacto na economia de comunidades locais</li>
+            </ul>
+        </section>
+
+        <section id="A floresta garante as chuvas para boa parte da América do Sul e tem papel central no combate ao aquecimento global e às mudanças climáticas
+        . Abriga imensa biodiversidade, com milhares de espécies de plantas e animais, algumas ainda desconhecidas ou 
+        pouco estudadas. É berço da maior bacia hidrográfica do mundo" class="conteudo">
+            <h2></h2>
+            <p>O desmatamento impacta diretamente a vida humana. Para evitar suas consequências, é necessário preservar o meio ambiente, investir em reflorestamento e adotar práticas sustentáveis.</p>
+            <iframe width="560" height="315" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.todamateria.com.br%2Fdesmatamento-na-amazonia%2F&psig=AOvVaw2OWKOdCroOQmTCa8ASf_Zi&ust=1749303905530000&source=images&cd=vfe&opi
+            =89978449&ved=0CBQQjRxqFwoTCIiC3ID33I0DFQAAAAAdAAAAABAE" title="https://www.google.com/imgres?q=conclu%C3%A7ao%20na%20amaz%C3%B4nia%3A%20causas%20e%20consequ%C3%AAncias%20video&imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2F5JV_tELz2tI%2Fhqdefault.jpg&imgrefurl=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D5JV_tELz2tI&docid=dZPZu2IhYJ6vlM&tbnid=xQKbuS2Gej8IAM&vet=12ahUKEwiw98mq99yNAxUCr5UCHVWBHEUQM3oECBoQAA..
+            i&w=480&h=360&hcb=2&ved=2ahUKEwiw98mq99yNAxUCr5UCHVWBHEUQM3oECBoQAA">
+        </section>
+
+    </main>
+
+    <footer>
+        <a href="https://www.linkedin.com/in/femascheti" class="cta-footer">Faça parte dessa causa!</a>
+        <p>2025 | @femascheti</p>
+    </footer>
+</body>
+</html>
