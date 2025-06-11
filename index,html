@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Impacto do Desmatamento</title>
+    <title>desmatamento na amazonia</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -43,7 +43,7 @@ img {
       também são um problema grave, 
     especialmente durante a estação seca, e são frequentemente usadas para abrir novas áreas para
      atividades agropecuárias." alt="https://images.app.goo.gl/Yg6LYeCbcS7smrfS8"> -->
-        <p>O desmatamento intensifica fenômenos negativos no meio ambiente e na vida das pessoas, afetando enchentes, temperatura e qualidade de vida.</p>
+        <p>O desmatamento intensifica fenômenos negativos no meio ambiente e na vida das pessoas assi afetando o clima</p>
         <nav>/* código omitido */
 
 /* Reset */
@@ -98,11 +98,19 @@ img {
             <h2>Os Problemas</h2>
             <article>
                 <h3>Aumento das enchentes</h3>
-                <p>As árvores absorvem a água da chuva e ajudam na infiltração no solo. Sem vegetação, a água escoa rapidamente, causando enchentes.</p>
+                <p>"O desmatamento na Amazônia é um problema ambiental que ameaça a biodiversidade desse bioma desde a década de 1970. Várias causas estão por trás dessa prática, como a construção de grandes obras de infraestrutura na região Norte do Brasil e o avanço da fronteira agrícola para áreas recobertas pela floresta. Deixando de lado a tendência de queda observada a entre 2004 e 2015, o crescimento expressivo e contínuo nas taxas de desmatamento na Amazônia nos últimos anos é preocupante.
+
+"
+
+Veja mais sobre "Desmatamento na Amazônia" em: https://brasilescola.uol.com.br/brasil/desmatamento-da-amazonia.htm</p>
             </article>
 
             <article>
-                <h3>Calor excessivo e ilhas de calor</h3>
+                <h3>Calor excessivo e ilhas de calor"O desmatamento na Amazônia é um problema ambiental que ameaça a biodiversidade desse bioma desde a década de 1970. Várias causas estão por trás dessa prática, como a construção de grandes obras de infraestrutura na região Norte do Brasil e o avanço da fronteira agrícola para áreas recobertas pela floresta. Deixando de lado a tendência de queda observada a entre 2004 e 2015, o crescimento expressivo e contínuo nas taxas de desmatamento na Amazônia nos últimos anos é preocupante.
+
+"
+
+Veja mais sobre "Desmatamento na Amazônia" em: https://brasilescola.uol.com.br/brasil/desmatamento-da-amazonia.htm</h3>
                 <p>O desmatamento reduz a evapotranspiração das plantas, elevando a temperatura das cidades e aumentando o efeito das ilhas de calor.</p>
             </article>
 
@@ -117,11 +125,11 @@ img {
         <section id="consequencias" class="conteudo">
             <h2>Consequências</h2>
             <ul>
-                <li>Aumento das enchentes e erosão do solo</li>
+                <li>afetando o clima</li>
                 <li>Aumento das temperaturas e mudanças climáticas</li>
-                <li>Perda da biodiversidade</li>
+                <li>mortes de animais</li>
                 <li>Redução da qualidade de vida nas cidades</li>
-                <li>Agravamento de problemas de saúde</li>
+                <li>probles de saude</li>
                 <li>Impacto na economia de comunidades locais</li>
             </ul>
         </section>
@@ -139,8 +147,8 @@ img {
     </main>
 
     <footer>
-        <a href="https://www.linkedin.com/in/femascheti" class="cta-footer">Faça parte dessa causa!</a>
-        <p>2025 | @femascheti</p>
+        <a href="https://www.linkedin.com/in/femascheti" class="cta-foot</a>
+        <p>2025 |</p>
     </footer>
 </body>
 </html>
